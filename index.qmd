@@ -1,0 +1,20 @@
+---
+title: "Katherine Lu"
+about:
+  template: jolla
+  links: 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/katherine-lu-579215aa/
+  image: images/IMG_5387.jpg
+  #links: 
+   # - icon: options: icons.getbootstrap.com (eg. twitter, github icons)
+    #  text:
+     # href: link
+---
+
+MPH Epidemiology Student\
+Dalla Lana School of Public Health
+
+```{r}
+print("Hello world!")
+```

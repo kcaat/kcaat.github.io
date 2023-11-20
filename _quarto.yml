@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  #will create docs folder, which will host html files for website layout & structure
+
+website:
+  title: "kcaat.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home #index qmd page is labeled as Home
+      - href: moi.qmd
+        text: Page
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,13 @@
+---
+title: "Blog post 1"
+description: "Created to show how to add blog posts"
+author: "Katherine"
+date: "11/20/2023" #needed for our blog page to sort posts by date
+categories:
+  - R code
+---
+
+```{r}
+summary(mtcars)
+```
+
